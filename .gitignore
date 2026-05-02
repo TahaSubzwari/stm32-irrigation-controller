@@ -1,0 +1,32 @@
+# Build folders
+Debug/
+Release/
+
+# Object + build files
+*.o
+*.d
+*.elf
+*.map
+*.list
+*.su
+*.cyclo
+*.bin
+*.hex
+
+# STM32CubeIDE / Eclipse
+.settings/
+.metadata/
+.cproject
+.project
+*.launch
+RemoteSystemsTempFiles/
+
+# CubeMX / IOC backups
+*.ioc.bak
+*.bak
+
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
+
